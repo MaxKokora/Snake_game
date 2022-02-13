@@ -30,8 +30,8 @@ public class GameField extends JPanel {
     }
 
     public void loadImage(){
-        ImageIcon iaa = new ImageIcon("apple.jpg");
-        apple = iaa.getImage();
+        ImageIcon iia = new ImageIcon("apple.jpg");
+        apple = iia.getImage();
         ImageIcon iid = new ImageIcon("dot.jpg");
         dot = iid.getImage();
 
